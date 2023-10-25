@@ -1,5 +1,3 @@
-# Unfinished
-
 # Hi there 👋 , I'm Rangga!
 Currently as a student in the Informatics Engineering program, I like learning new things in programming such as Javascript, PHP, React, Tailwind, Bootstrap.  
 
