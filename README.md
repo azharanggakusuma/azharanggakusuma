@@ -12,7 +12,7 @@ Currently as a student in the Informatics Engineering program, I like learning n
 
 ### Stats:
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=azharanggakusuma&count_private=true&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=azharanggakusuma&count_private=true&show_icons=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharanggakusuma&layout=compact" height=195 />
 </p>
 
