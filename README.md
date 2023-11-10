@@ -20,7 +20,7 @@
 ### <h2>Let's connect!</h2>
 <div>
     <a href="https://azharangga.my.id" target="blank"><img src="https://img.shields.io/badge/Website-https://azharangga.my.id-green?" /></a>
-    <a href="https://linkedin.com/azharangga-kusuma-9a30911a0/" target="blank"><img src="https://img.shields.io/badge/Azharangga_Kusuma-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://instagram.com/azharangga_kusuma/" target="blank"><img src="https://img.shields.io/badge/azharangga_kusuma-30302f?style=flat&logo=instagram" /></a>
+    <a href="https://www.linkedin.com/in/azharanggakusuma" target="blank"><img src="https://img.shields.io/badge/Azharangga_Kusuma-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://instagram.com/azharangga_kusuma" target="blank"><img src="https://img.shields.io/badge/azharangga_kusuma-30302f?style=flat&logo=instagram" /></a>
     <a href="https://www.paypal.me/azharanggakusuma" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </div>
