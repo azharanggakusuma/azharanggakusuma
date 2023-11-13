@@ -15,6 +15,7 @@
 <div>
     <img src="https://github-readme-stats.vercel.app/api?username=azharanggakusuma&count_private=true&show_icons=true&theme=algolia" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharanggakusuma&theme=algolia" height=195 />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=azharanggakusuma&theme=neon&hide_border=true&border_radius=5&theme=algolia" />
 </div>
 
 ### <h2>Let's connect!</h2>
