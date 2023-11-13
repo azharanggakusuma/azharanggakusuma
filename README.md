@@ -12,10 +12,10 @@
 </div>
 
 ### <h2>Stats:</h2>
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=azharanggakusuma&count_private=true&show_icons=true&theme=algolia" style="width: 32%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharanggakusuma&theme=algolia" style="width: 32%;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=azharanggakusuma&theme=neon&hide_border=true&border_radius=5&theme=algolia" style="width: 32%;" />
+<div>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=azharanggakusuma&theme=neon&border_radius=5&theme=algolia" />
+    <img src="https://github-readme-stats.vercel.app/api?username=azharanggakusuma&count_private=true&show_icons=true&theme=algolia" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharanggakusuma&theme=algolia" height=195 />
 </div>
 
 ### <h2>Let's connect!</h2>
