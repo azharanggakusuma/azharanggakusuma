@@ -1,14 +1,22 @@
-# <h1>Hi there 👋 , I'm Rangga!</h1>
-<p>Currently as a student in the Informatics Engineering program, I like learning new things in programming such as Javascript, PHP, React, Tailwind, Bootstrap.</p>
+# <h1>Hi there 👋, I'm Rangga!</h1>
+<p>Currently, as a student in the Informatics Engineering program, I enjoy learning new things in programming, such as Javascript, PHP, React, Tailwind, and Bootstrap.</p>
 
 ### <h2>Tools:</h2>
 <div>
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/Build-Vite-blue?&logo=vite" />
-    <img src="https://img.shields.io/badge/Code-Javascript-blue?&logo=javascript" />
-    <img src="https://img.shields.io/badge/Code-React-blue?&logo=react" />
-    <img src="https://img.shields.io/badge/Code-PHP-blue?&logo=php" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/OS-Windows-0078D6?&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Build-Vite-646CFF?&logo=vite&logoColor=white" />
+    <img src="https://img.shields.io/badge/Code-Javascript-F7DF1E?&logo=javascript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Code-React-61DAFB?&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/Code-PHP-777BB4?&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Editor-VS%20Code-007ACC?&logo=visual%20studio%20code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framework-Tailwind%20CSS-38B2AC?&logo=tailwind%20css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Framework-Bootstrap-7952B3?&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/VCS-Git-F05032?&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Library-jQuery-0769AD?&logo=jquery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Runtime-Node.js-339933?&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Package%20Manager-npm-CB3837?&logo=npm&logoColor=white" />
+    <img src="https://img.shields.io/badge/Language-HTML-E34F26?&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stylesheet-CSS-1572B6?&logo=css3&logoColor=white" />
 </div>
 
 ### <h2>Stats:</h2>
@@ -20,8 +28,8 @@
 
 ### <h2>Let's connect!</h2>
 <div>
-    <a href="https://azharangga.my.id" target="blank"><img src="https://img.shields.io/badge/Website-https://azharangga.my.id-green?" /></a>
-    <a href="https://www.linkedin.com/in/azharanggakusuma" target="blank"><img src="https://img.shields.io/badge/Azharangga_Kusuma-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://instagram.com/azharangga_kusuma" target="blank"><img src="https://img.shields.io/badge/azharangga_kusuma-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://www.paypal.me/azharanggakusuma" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
+    <a href="https://azharangga.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-azharangga.my.id-00B16A?style=flat&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/azharanggakusuma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Azharangga%20Kusuma-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com/azharangga_kusuma" target="_blank"><img src="https://img.shields.io/badge/Instagram-azharangga_kusuma-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+    <a href="https://www.paypal.me/azharanggakusuma" target="_blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </div>
