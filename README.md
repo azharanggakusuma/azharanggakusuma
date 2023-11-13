@@ -1,5 +1,6 @@
 # <h1>Hi there 👋, I'm Rangga!</h1>
 <p>Currently, as a student in the Informatics Engineering program, I enjoy learning new things in programming, such as Javascript, PHP, React, Tailwind, and Bootstrap.</p>
+<img src="https://komarev.com/ghpvc/?username=azharanggakusuma&color=blue" alt="Profile Views" />
 
 ### <h2>Tools:</h2>
 <div>
