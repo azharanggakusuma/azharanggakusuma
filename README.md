@@ -32,5 +32,4 @@
     <a href="https://azharangga.my.id" target="_blank"><img src="https://img.shields.io/badge/Website-azharangga.my.id-00B16A?style=flat&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/azharanggakusuma" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Azharangga%20Kusuma-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
     <a href="https://instagram.com/azharangga_kusuma" target="_blank"><img src="https://img.shields.io/badge/Instagram-azharangga_kusuma-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
-    <a href="https://www.paypal.me/azharanggakusuma" target="_blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
 </div>
