@@ -45,14 +45,14 @@ I’m open to discussions, collaborations, and exchanging ideas on topics like *
 #### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,npm,bun,laravel" />
+    <img src="https://skillicons.dev/icons?i=php,mysql,nodejs,monggodb,express,laravel" />
   </a>
 </p>
 
 #### Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,figma,vercel" />
+    <img src="https://skillicons.dev/icons?i=windows,vscode,git,github,figma,vercel,npm,bun,postman" />
   </a>
 </p>
 
