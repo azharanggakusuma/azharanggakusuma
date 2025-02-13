@@ -5,14 +5,16 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 🎓 About Me  
-I’m an **Informatics Engineering** student with a strong passion for **Frontend Development** and **Artificial Intelligence**. I enjoy creating intuitive and visually appealing user interfaces and exploring how AI can solve complex problems.  
+I am an **Informatics Engineering** student with a strong passion for **Frontend Development** and **UI/UX design**. I enjoy crafting intuitive and visually appealing user interfaces that blend creativity with solid design principles to deliver optimal user experiences.
+
+I continuously expand my skills by working with modern technologies such as Next.js for dynamic web applications and Laravel for robust backend systems. I'm open to collaborations, discussions on Frontend Development and UI/UX design, and exploring exciting tech projects.
 
 To me, coding is not just a skill—it’s an art form that blends logic and creativity to build something extraordinary. Every line of code is a step towards creating solutions that can have a positive impact on the world.  
 
 ---
 
 ### 🚀 What I'm Working On  
-I’m currently developing a **Data and Information Technology Center System (Pusdatin)** for **Kabupaten Cirebon** to streamline data management and improve accessibility. This project lets me apply my skills while contributing to local technological progress.  
+Recently, I completed a project called **Data and Information Technology Center System (PUSDATIN) for Kabupaten Cirebon** a system designed to streamline data management and improve information accessibility for local government. This project not only allowed me to apply my technical skills but also provided an opportunity to implement UI/UX design best practices in creating a user-friendly and engaging interface.
 
 ---
 
