@@ -61,17 +61,20 @@ I’m open to discussions, collaborations, and exchanging ideas on topics like *
 <br/>
 
 ## 📊 GitHub Stats  
+<p align="center">
+  <a href="https://github.com/azharanggakusuma">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=azharanggakusuma&theme=radical&hide_border=true&include_all_commits=false&count_private=true" height="190" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/azharanggakusuma">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharanggakusuma&theme=radical&hide_border=true" height="190" alt="GitHub Streak" />
+  </a>
+</p>
 
+<p align="center">
   <a href="https://github.com/azharanggakusuma">
-    <img src="https://github-readme-stats.vercel.app/api?username=azharanggakusuma&theme=radical&hide_border=true&include_all_commits=false&count_private=true" width="46%" alt="GitHub Stats">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=azharanggakusuma&theme=radical&hide_border=true&layout=compact" height="190" alt="Top Languages" />
   </a>
-  <a href="https://github.com/azharanggakusuma">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=azharanggakusuma&theme=radical&hide_border=true" width="50%" alt="GitHub Streak">
-  </a>
-
-  <a href="https://github.com/azharanggakusuma">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azharanggakusuma&theme=radical&hide_border=true&layout=compact" width="46%" alt="Top Languages">
-  </a>
+</p>
 
 
 ---
