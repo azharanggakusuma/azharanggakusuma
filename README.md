@@ -1,6 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />   
 
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Azharangga Kusuma</h1>  
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Azharangga Kusuma</h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -28,7 +28,7 @@ I’m currently focusing on:
 
 I strive to continuously learn and grow, staying adaptable in the ever-evolving world of technology.  
 
-### 💻Tech Stack
+### 💻 Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,prisma,php,mysql,postgres,vite,cloudflare,supabase,tailwind,bootstrap,figma,python,git,github,figma,vercel,npm,bun,postman,tensorflow" />
@@ -37,7 +37,7 @@ I strive to continuously learn and grow, staying adaptable in the ever-evolving 
 
 <br/>
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 <p align="center">
   <a href="https://github.com/azharanggakusuma">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=azharanggakusuma&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" width="49%" alt="GitHub Stats" />
@@ -56,11 +56,10 @@ I strive to continuously learn and grow, staying adaptable in the ever-evolving 
 ### 💬 Let’s Connect  
 I’m always open to collaboration, freelance opportunities, and discussions about building practical fullstack products. If you have an idea or project in mind, feel free to reach out.  
 <br>
-[![Website](https://img.shields.io/badge/Website-azharangga.me-0ea5e9?logo=googlechrome&logoColor=white)](https://azharangga.me/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/azharangga_kusuma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azharanggakusuma) 
-
+[![Website](https://img.shields.io/badge/Website-azharangga.me-0ea5e9?style=flat&logo=vercel&logoColor=white)](https://azharangga.me/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/azharangga_kusuma) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Azharangga%20Kusuma-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/azharanggakusuma)
 
 ---
 
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=azharanggakusuma&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=azharanggakusuma&style=flat&color=0ea5e9" alt="Profile Views" />
+</p>
